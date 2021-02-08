@@ -1,1 +1,18 @@
-.rect2
+.main-block {
+    width: 800px;
+    height: 300px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue-with-margin{
+    margin: 10px;
+    color: #ffffff;
+    font-size: 14px;
+}
