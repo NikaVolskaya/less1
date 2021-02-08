@@ -1,0 +1,87 @@
+
+<fiends>
+
+    <div>
+
+    </div>
+    <user>
+        <work>
+            <schedule>
+
+            </schedule>
+        </work>
+    </user>
+
+    <user age="54">
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+    <user>
+        <work>
+            <schedule>
+                <monday></monday>
+                <thuesday></thuesday>
+                <wednesday></wednesday>
+            </schedule>
+        </work>
+    </user>
+
+
+</fiends>
+
