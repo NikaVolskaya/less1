@@ -1,0 +1,44 @@
+.main-block {
+    width: 800px;
+    height: 1500px;
+    background-color: #858282;
+}
+
+.blue {
+    background-color: #4a83e3;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue-with-margin{
+    margin: 10px;
+    color: #7c7b7b;
+    font-size: 20px;
+    height: 100px;
+}
+
+.snoop{
+    height: 50px;
+    background-color: darkgrey;
+}
+
+.koks{
+    background-color: #9705a2;
+    height: 50px;
+
+}
+.timmi{
+    background-color: #50ab3d;
+}
+.rom{
+    background-color: #acac49;
+}
+.viski{
+    background-color: #f6f3f3;
+}
+.mohito{
+    background-color: #86d774;
+    height: 20px;
+}
