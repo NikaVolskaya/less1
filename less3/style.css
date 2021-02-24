@@ -7,3 +7,15 @@
     white-space: nowrap;
     margin: 10px;
 }
+.blue-with-margin{
+    margin: 30px;
+    font-size: 20px;
+    height: 100px;
+}
+
+.big-text{
+    font-weight: 600;
+    font-size: 4.5rem;
+    line-height: 5rem;
+    letter-spacing: 1.25px;
+    color: ;
