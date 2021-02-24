@@ -14,5 +14,16 @@
 }
 
 .big-text{
-    font-size: 40px;
+    font-weight: 600;
+    font-size: 4.5rem;
+    line-height: 5rem;
+    letter-spacing: 1.25px;
+    color: ;
+
 }
+
+ .blue-with-margin{
+     margin: 20px;
+     font-size: 20px;
+     height: 100px;
+ }

@@ -1,0 +1,9 @@
+.main-container{
+    background-color: bisque;
+    max-width: 960px;
+    width: 960px;
+}
+.menu-item {
+    white-space: nowrap;
+    margin: 10px;
+}
