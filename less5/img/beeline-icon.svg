@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Partners/Small/Beeline/">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M16 29C23.1797 29 29 23.1797 29 16C29 8.8203 23.1797 3 16 3C8.8203 3 3 8.8203 3 16C3 23.1797 8.8203 29 16 29Z" fill="url(#paint0_linear)"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="26" height="26">
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M16 29C23.1797 29 29 23.1797 29 16C29 8.8203 23.1797 3 16 3C8.8203 3 3 8.8203 3 16C3 23.1797 8.8203 29 16 29Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 8" fill-rule="evenodd" clip-rule="evenodd" d="M-1.54065 12.7872L-1.54065 18.5527L32.962 18.5527L32.962 12.7872L-1.54065 12.7872ZM-1.54065 24.7981L-1.54065 29.6071L32.962 29.6071L32.962 24.7981L-1.54065 24.7981ZM-1.54126 2.18774L-1.54126 7.02119L32.9626 7.02119L32.9626 2.18774L-1.54126 2.18774Z" fill="#1B1C20"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="29" y1="1.67256" x2="3" y2="1.67256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6DC0D"/>
+<stop offset="1" stop-color="#FAA619"/>
+</linearGradient>
+</defs>
+</svg>
